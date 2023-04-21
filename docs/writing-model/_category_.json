@@ -1,0 +1,8 @@
+{
+  "label": "Writing a Model",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "For the sake of simplicity, colors have been used to improve clarity; in particular: blue is used to highlight fixed values and Datome Specific Keywords. Orange is used for all the other values that are not keywords or mandatory, hence that can be written following a personal preference, a pattern or a naming convention."
+  }
+}
